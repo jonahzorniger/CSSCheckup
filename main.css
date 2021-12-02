@@ -1,0 +1,51 @@
+/* Header Styling */
+
+body{
+    border:3px solid orange;
+    background-image: url("../assets/background.png");
+}
+
+h1{
+    text-align: center;
+    font family: Times, Serif, "Times New Roman";
+}
+
+.about-my-cat{
+    width: 60%;
+    text-align: center;
+    border:1px dotted orange;
+    margin-top:50px;
+    margin-right:250px;
+    margin-bottom:0px;
+    margin-left:250px;
+    padding: 10px 10px 10px 30px;
+}
+
+p{
+    font family: Serif, Times, "Times New Roman";
+}
+
+#activities{
+    color:blue;
+    width: 60%;
+    text-align: center;
+    margin-top: 0px;
+    margin-right:250px;
+    margin-bottom:200px;
+    margin-left:250px;
+    padding: 10px 10px 10px 30px
+}
+
+.reggie-the-cat{
+   text-align: center;
+}
+
+.fixed-info{
+    text-align: center;
+    position:fixed;
+    top: 0;
+    right: 0;
+    width: 250px;
+    background-color: lightgray;
+    border: 2px solid orange
+}
